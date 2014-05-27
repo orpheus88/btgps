@@ -7,6 +7,7 @@
 
 #include <Arduino.h>
 #include <SD.h>
+#include <OBD.h>
 #include <Wire.h>
 #include <SPI.h>
 #include "config.h"
