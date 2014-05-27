@@ -39,7 +39,7 @@
 * Other options
 **************************************/
 // minimum time for a loop (set in case OBD-II polling is too fast)
-#define LOOP_INTERVAL 0 /* ms */
+#define LOOP_INTERVAL 90 /* ms */
 
 
 // enable(1)/disable(0) accelerometer/gyro
